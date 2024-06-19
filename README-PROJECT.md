@@ -169,4 +169,4 @@ CREATE TABLE notifications (
 
 ---
 
-Esta arquitectura y configuración proporcionan un sistema robusto para gestionar todo el ciclo de vida de los proyectos de inversión basados en concesiones mineras no metálicas.
+
